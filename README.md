@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Md. Saiful Islam!
+# Hello, I'm Md. Saiful Islam!
 ### MERN Stack Developer | Full-Stack Specialist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome)](https://saiful.reliablekrishi.com/)
@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:saiful01741899@gmail.com)
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-Available-brightgreen?style=for-the-badge)](mailto:saiful01741899@gmail.com)
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **MERN Stack Developer** with expertise in building modern, scalable web applications. I love turning complex problems into simple, beautiful, and intuitive solutions. With a strong foundation in both frontend and backend technologies, I create seamless full-stack experiences.
 
@@ -16,7 +16,7 @@ I'm a passionate **MERN Stack Developer** with expertise in building modern, sca
 - 💬 **Ask me about:** React, Node.js, MongoDB, Express.js, or any MERN-related topics
 - ⚡ **Fun fact:** I enjoy solving complex coding challenges and building projects that make a difference
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend Mastery
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,7 +41,7 @@ I'm a passionate **MERN Stack Developer** with expertise in building modern, sca
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -51,13 +51,13 @@ I'm a passionate **MERN Stack Developer** with expertise in building modern, sca
 
 </div>
 
-## 📈 Coding Activity
+## Coding Activity
 ![Saiful's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdsaifulisl&theme=radical&hide_border=true&area=true)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdsaifulisl&theme=radical&no-frame=true&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🎯 My Development Process
+## My Development Process
 
 ```text
 🎨 Design & Prototyping  →  Figma
