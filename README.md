@@ -61,7 +61,7 @@ I'm a passionate **MERN Stack Developer** with expertise in building modern, sca
 
 ```text
 🎨 Design & Prototyping  →  Figma
-⚡ Frontend Development  →  React + Bootstrap + CSS3
+⚡ Frontend Development  →  React + Tailwind + CSS3
 🔧 Backend Development   →  Node.js + Express.js
 💾 Database Management   →  MongoDB + MySQL
 🔍 API Testing          →  Postman
